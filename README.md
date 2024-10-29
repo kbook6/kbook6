@@ -6,7 +6,7 @@ I'm Katherine Book, an aspiring biochemist 🧪 and global citizen 🌎 passiona
 🌐Aspiring polyglot (Spanish and German)  
 👩‍🔬Pronouns: She/her  
 ⭐️Currently learning: Python and R  
-🧬Working with @acressy [https://github.com/acressy], @j3kim2019 [https://github.com/j3kim2019], and @sofia-oliver [https://github.com/sofia-oliver] in Genomics and Applied Bioinformatics
+🧬Working with @acressy [https://github.com/acressy], @j3kim2019 [https://github.com/j3kim2019], and @sofia-oliver [https://github.com/sofia-oliver] in BIOS6150: Genomics and Applied Bioinformatics
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
