@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring biochemist 🧪 and global citizen 🌎 passionate about sustainability, biotech, and public health 🌱
+I'm Katherine Book, an aspiring biochemist and global citizen passionate about sustainability, biotech, and public health 🧪🌎🌱
 
 🎓Biochemistry BS, Georgia Tech Fall 2024  
 🌐Aspiring polyglot (Spanish and German)  
