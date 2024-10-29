@@ -2,10 +2,10 @@
 
 I'm Katherine Book, an aspiring biochemist 🧪 and global citizen 🌎 passionate about sustainability, biotech, and public health 🌱
 
-🎓Biochemistry BS, Georgia Tech Fall 2024
-⭐️Currently learning: Python and R in bioinformatics
-🌐Aspiring polyglot (Spanish and German)
-👩‍🔬Pronouns: She/her
+🎓Biochemistry BS, Georgia Tech Fall 2024  
+⭐️Currently learning: Python and R in bioinformatics  
+🌐Aspiring polyglot (Spanish and German)  
+👩‍🔬Pronouns: She/her  
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
