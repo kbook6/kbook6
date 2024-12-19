@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring biochemist and global citizen passionate about sustainability, biotech, and public health 🧪🌎🌱
+I'm Katherine Book, an aspiring biotechnologist and global citizen passionate about sustainability, biotech, and public health 🧪🌎🌱
 
 👩‍🔬Pronouns: She/her  
 🎓Georgia Tech Almuna (BS Biochemistry)  
