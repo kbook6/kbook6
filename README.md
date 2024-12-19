@@ -2,11 +2,12 @@
 
 I'm Katherine Book, an aspiring biochemist and global citizen passionate about sustainability, biotech, and public health 🧪🌎🌱
 
-🎓Biochemistry BS, Georgia Tech Fall 2024  
-🌐Aspiring polyglot (Spanish and German)  
 👩‍🔬Pronouns: She/her  
+🎓Georgia Tech Almuna (BS Biochemistry)  
+🌐Aspiring polyglot (Spanish and German)   
 ⭐️Currently learning: Python and R  
-🧬Working with @acressy [https://github.com/acressy], @j3kim2019 [https://github.com/j3kim2019], and @sofia-oliver [https://github.com/sofia-oliver] in BIOS6150: Genomics and Applied Bioinformatics
+📚Projects: 
+    🧬BIOS6150 Genomics and Applied Bioinformatics with @acressy [https://github.com/acressy], @j3kim2019 [https://github.com/j3kim2019], and @sofia-oliver [https://github.com/sofia-oliver]
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
