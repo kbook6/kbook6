@@ -7,8 +7,9 @@ I'm Katherine Book, an aspiring biotechnologist and global citizen passionate ab
 🌐Aspiring polyglot (Spanish and German)   
 ⭐️Currently learning: Python and R  
 📚Projects:  
-&nbsp;&nbsp;&nbsp;&nbsp;💻BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
-&nbsp;&nbsp;&nbsp;&nbsp;🧬CHEM4582 Biochemistry II Laboratory Biometals Course-based Undergraduate Research Experience
+&nbsp;&nbsp;&nbsp;&nbsp;💻BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  (complete)
+&nbsp;&nbsp;&nbsp;&nbsp;🧬CHEM4582 Biochemistry II Laboratory Biometals Course-based Undergraduate Research Experience (complete)
+&nbsp;&nbsp;&nbsp;&nbsp; 💻 LinkedIn Learning: Python Essential Training
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
