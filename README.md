@@ -5,7 +5,7 @@ I'm Katherine Book, an aspiring biotechnologist and global citizen passionate ab
 ## About Me
 👩‍🔬Pronouns: She/her  
 🎓Georgia Tech Almuna (BS Biochemistry)  
-📐Prospective Master's Student (Chemical Engineering)   
+📐Texas A&M Energy Institute Graduate Student (Certificate in Energy)   
 🌐Aspiring polyglot (Spanish and German)   
 ⭐️Currently learning: Python and R  
 
