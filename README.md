@@ -5,12 +5,13 @@ I'm Katherine Book, an aspiring biotechnologist and global citizen passionate ab
 ## About Me
 👩‍🔬Pronouns: She/her  
 🎓Georgia Tech Almuna (BS Biochemistry)  
-📐Texas A&M Energy Institute Graduate Student (Certificate in Energy)   
+📐Texas A&M Energy Institute Graduate Student (Master in Energy)   
 🌐Aspiring polyglot (Spanish and German)   
 ⭐️Currently learning: Python and R  
 
 ## 📖Current Projects:  
-•💻 LinkedIn Learning: Python Essential Training  
+•💻 LinkedIn Learning: Python Essential Training 
+• Introduction to Optimization Homework (ENGY 606)
   
 ## 📚Past Projects:  
 •💻BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
