@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration. 🧪🌎🌱
+I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration.  
+🧪🌎🌱  
 
 ## ⟡ About Me ⟡  
 ✩ Pronouns: She/her  
