@@ -1,21 +1,21 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring biotechnologist and global citizen passionate about sustainability, biotech, and global collaboration. 🧪🌎🌱
+I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration. 🧪🌎🌱
 
-## About Me
-👩‍🔬Pronouns: She/her  
-🎓Georgia Tech Almuna (BS Biochemistry)  
-📐Texas A&M Energy Institute Graduate Student (Master in Energy)   
-🌐Aspiring polyglot (Spanish and German)   
-⭐️Currently learning: Python and R  
+## ⟡ About Me ⟡  
+✩ Pronouns: She/her  
+✩ Georgia Tech Almuna (BS Biochemistry)  
+✩ Texas A&M Energy Institute Graduate Student (Master in Energy)   
+✩ Aspiring polyglot (Spanish and German)   
+✩ Currently learning: Python and R  
 
-## 📖Current Projects:  
-•💻 LinkedIn Learning: Python Essential Training 
-• Introduction to Optimization Homework (ENGY 606)
+## ⟡ Current Projects ⟡  
+✩ LinkedIn Learning: Python Essential Training   
   
-## 📚Past Projects:  
-•💻BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
-•🧬CHEM4582 Biochemistry II Laboratory Biometals Course-based Undergraduate Research Experience  
+## ⟡ Past Projects ⟡  
+✩ BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
+✩ CHEM4582 Biochemistry II Laboratory Biometals Course-based Undergraduate Research Experience  
+✩ Introduction to Optimization Homework (ENGY 606)  
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
