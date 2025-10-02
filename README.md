@@ -5,8 +5,8 @@ I'm Katherine Book, an aspiring sustainability analyst and global citizen passio
 
 ## ⟡ About Me ⟡  
 ✩ Pronouns: She/her  
-✩ Georgia Tech Almuna (BS Biochemistry)  
-✩ Texas A&M Energy Institute Graduate Student (Master in Energy)   
+✩ Master of Science in Energy | Texas A&M University 2027   
+✩ Bachelor of Science in Biochemistry | Georgia Institute of Technology 2024    
 ✩ Aspiring polyglot (Spanish and German)   
 ✩ Currently learning: Python and R  
 
