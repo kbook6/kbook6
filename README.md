@@ -16,7 +16,7 @@ I'm Katherine Book, an aspiring sustainability analyst and global citizen passio
 ## ⟡ Past Projects ⟡  
 ✩ BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
 ✩ CHEM4582 Biochemistry II Laboratory Biometals Course-based Undergraduate Research Experience  
-✩ Introduction to Optimization Homework (ENGY 606)  
+✩ ENGY606 Introduction to Optimization Homework   
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
