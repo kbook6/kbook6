@@ -11,7 +11,7 @@ I'm Katherine Book, an aspiring sustainability analyst and global citizen passio
 ✩ Currently learning: Python and R  
 
 ## ⟡ Current Projects ⟡  
-✩ LinkedIn Learning: Python Essential Training   
+✩ ENGY604 Energy Systems Engineering I   
   
 ## ⟡ Past Projects ⟡  
 ✩ BIOS6150 Genomics and Applied Bioinformatics with @acressy, @j3kim2019, and @sofia-oliver  
