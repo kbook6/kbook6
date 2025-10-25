@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration.  
+I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration.    
 🧪🌎🌱  
 
 ## ⟡ About Me ⟡  
 ✩ Pronouns: She/her  
-✩ Master of Science in Energy | Texas A&M University 2027   
-✩ Bachelor of Science in Biochemistry | Georgia Institute of Technology 2024    
+✩ Master of Science in Energy | Texas A&M University 2027 (A-WHOOP!)   
+✩ Bachelor of Science in Biochemistry | Georgia Institute of Technology 2024 (THWg!)      
 ✩ Aspiring polyglot (Spanish and German)   
 ✩ Currently learning: Python and R  
 
