@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration.    
+I'm Katherine Book, an aspiring sustainability analyst and global citizen passionate about sustainability, biotech, and global collaboration. I've dabbled a little in coding, and here's what I've learned!     
 🧪🌎🌱  
 
 ## ⟡ About Me ⟡  
