@@ -11,12 +11,13 @@ I'm Katherine Book, an energy enthusiast, aspiring sustainability analyst, and o
 ✩ Currently learning: Python, AMPL and R  
 
 ## ⟡ Current Projects ⟡  
-✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage
+✩ Casual Python Learning    
   
 ## ⟡ Past Projects ⟡  
 ✩ BIOS6150 Genomics and Applied Bioinformatics   - Many projects with @acressy, @j3kim2019, and @sofia-oliver  
 ✩ CHEM4582 Biochemistry II Laboratory            - Biometals Course-based Undergraduate Research Experience  
 ✩ ENGY606 Introduction to Optimization           - Homework   
+✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage     
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
