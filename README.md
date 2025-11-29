@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Katherine Book, an energy enthusiast, aspiring sustainability analyst, and overall global citizen passionate about sustainability, biotech, and global collaboration.     
+I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, and overall global citizen passionate about sustainability, biotech, and global collaboration.     
 🧪🌎🌱  
 
 ## ⟡ About Me ⟡  
