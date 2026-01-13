@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy!
 
 I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, and overall global citizen passionate about sustainability, biotech, and global collaboration.     
 🧪🌎🌱  
@@ -18,6 +18,11 @@ I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, an
 ✩ CHEM4582 Biochemistry II Laboratory            - Biometals Course-based Undergraduate Research Experience  
 ✩ ENGY606 Introduction to Optimization           - Homework   
 ✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage     
+
+## ⟡ Future Projects ⟡   
+✩ ENGY640 Data Science for Energy I    
+✩ ENGY641 Data Science for Energy II    
+✩ ENGY644 Data Science for Process Systems    
 <!--
 **kbook6/kbook6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
