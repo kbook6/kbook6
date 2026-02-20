@@ -11,7 +11,7 @@ I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, an
 ✩ Currently learning: Python, AMPL and R  
 
 ## ⟡ Current Projects ⟡  
-✩ Casual Python Learning    
+✩ Using Python in my Data Science Classes (I, II, and Process Systems)        
   
 ## ⟡ Past Projects ⟡  
 ✩ BIOS6150 Genomics and Applied Bioinformatics   - Many projects with @acressy, @j3kim2019, and @sofia-oliver  
