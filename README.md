@@ -14,11 +14,11 @@ I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, an
 ✩ none for now!        
   
 ## ⟡ Past Projects ⟡  
-✩ BIOS6150 Genomics and Applied Bioinformatics   - Many projects with @acressy, @j3kim2019, and @sofia-oliver  
-✩ CHEM4582 Biochemistry II Laboratory            - Biometals Course-based Undergraduate Research Experience  
-✩ ENGY606 Introduction to Optimization           - Homework   
-✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage     
 ✩ ENGY644 Data Science for Process Systems       - Stochastic optimization of a microgrid's renewable procurement with @sdswoods     
+✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage     
+✩ ENGY606 Introduction to Optimization           - Homework   
+✩ CHEM4582 Biochemistry II Laboratory            - Biometals Course-based Undergraduate Research Experience  
+✩ BIOS6150 Genomics and Applied Bioinformatics   - Many projects with @acressy, @j3kim2019, and @sofia-oliver  
 
 ## ⟡ Future Projects ⟡   
 ✩ tbd!        
