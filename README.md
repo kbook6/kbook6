@@ -11,7 +11,7 @@ I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, an
 ✩ Currently learning: Python, AMPL and R  
 
 ## ⟡ Current Projects ⟡  
-✩ none for now!        
+✩ Bio-inspired Systems Laboratory - coming soon!        
   
 ## ⟡ Past Projects ⟡  
 ✩ ENGY644 Data Science for Process Systems       - Stochastic optimization of a microgrid's renewable procurement with @sdswoods     
