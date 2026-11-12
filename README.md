@@ -12,8 +12,10 @@ I'm Katherine Book, an energy transition enthusiast, aspiring energy analyst, an
 
 ## ⟡ Current Projects ⟡  
 ✩ Bio-inspired Systems Laboratory - coming soon!        
+✩ AES Innovation Challenge - WIP!        
   
 ## ⟡ Past Projects ⟡  
+✩ MIT Climate & Energy Hackathon                 - Dashboard to monitor effects of climate on farmers' loans     
 ✩ ENGY644 Data Science for Process Systems       - Stochastic optimization of a microgrid's renewable procurement with @sdswoods     
 ✩ ENGY604 Energy Systems Engineering I           - Optimizing a theoretical grocery store's energy usage     
 ✩ ENGY606 Introduction to Optimization           - Homework   
